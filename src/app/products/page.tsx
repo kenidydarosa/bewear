@@ -5,8 +5,8 @@ import React from "react";
 
 const Products = () => {
   return (
-    <div className="border-radius-md mx-6 flex items-center justify-center bg-emerald-500 px-4 text-red-500">
-      <Button variant="default">Teste</Button>
+    <div className="border-radius-md mx-6 flex items-center justify-center px-4">
+      <Button variant="default">test</Button>
     </div>
   );
 };
